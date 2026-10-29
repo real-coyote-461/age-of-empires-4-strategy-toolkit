@@ -1,0 +1,22 @@
+{
+  "name": "age-of-empires-4-strategy-toolkit",
+  "displayName": "Age of Empires 4 Strategy Toolkit",
+  "programType": "strategy-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Civilization notes",
+    "Build orders",
+    "Match plans"
+  ],
+  "topics": [
+    "age-of-empires-4-strategy-toolkit",
+    "age-of-empires-4-tools",
+    "age-of-empires-4-menu",
+    "age-of-empires-4-settings",
+    "age-of-empires-4-configs",
+    "age-of-empires-4-civilization-notes",
+    "age-of-empires-4-build-orders"
+  ]
+}
